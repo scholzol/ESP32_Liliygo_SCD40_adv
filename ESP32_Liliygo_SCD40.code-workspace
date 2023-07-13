@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "X:/xampp/htdocs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xutility": "cpp"
+		}
+	}
+}
