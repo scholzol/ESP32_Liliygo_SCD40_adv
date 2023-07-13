@@ -1,6 +1,7 @@
 # ESP32_Lilygo_SCD40
 
 This is a repo for a ESP32 Liligo test project structure for VSCode and PlatformIO. I tested the usage of the build in TFT display and an ambient sensor SCD40 (temperature, humidity, CO2).
+This should be the advanced version with ESP32 sleep function, may be some logging and e-mail notification in case of errors.
 
 ## Installation
 
